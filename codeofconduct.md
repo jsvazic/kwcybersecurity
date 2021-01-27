@@ -7,7 +7,7 @@ Welcome!
 The discord server for the KW Cybersecurity Meetup group has been created to allow for further discussion and collaboration during and outside monthly meetings.  It is intended to provide further communication methods for our group.
 
 The current admins are:
-* John Svazic
+* John Svazic (JohnsNotHere)
 * Dinah Davis
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately.
